@@ -1,0 +1,7 @@
+# 🛡️ Autonomous Sandbox Runner
+
+> **Governing Authority:** Governing Officer Tarwater  
+> **Control Plane:** Governed under `autonomous-governance-core`
+
+## Overview
+`autonomous-sandbox-runner` acts as the system's quarantine and self-evolution sandbox. Unverified code changes and AI-generated PRs are tested in this isolated environment before promotion to executive review.
